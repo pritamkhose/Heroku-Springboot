@@ -1,0 +1,10 @@
+
+https://dashboard.heroku.com/apps/fathomless-headland-41361
+
+https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku
+
+https://fathomless-headland-41361.herokuapp.com/
+
+https://devcenter.heroku.com/articles/git-clone-heroku-app
+
+https://dashboard.heroku.com/apps/fathomless-headland-41361/deploy/heroku-git
